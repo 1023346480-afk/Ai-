@@ -1,0 +1,7 @@
+{
+  "name": "AI 智学助手",
+  "description": "一个功能强大的教育辅助工具，支持根据知识点智能生成多类型题目并配图，同时提供智能作业批改功能。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
